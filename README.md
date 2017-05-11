@@ -2,7 +2,7 @@
 
 Script feito para criação de dorks, desenvolvido em Python 3
 
-# Requesitos
+# Requisitos
 
 Python 2 ou superior instalado
 
