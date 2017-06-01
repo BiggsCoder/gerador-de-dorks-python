@@ -8,7 +8,7 @@ print("		|       Coded By: SrBiggs          |")
 print("		|       Contact: @SrBiggs          |")
 print("		|       Versão: 1.0                |")
 print("		+==================================+\n")
-print(" Conhecimento e poder, crime vai da conciencia o hacker usa a inteligencia \n")
+
 banner = '''
 		 / ___| ___ _ __   	|  _ \  ___  _ __| | __
 		| |  _ / _ \ '_ \  	| | | |/ _ \| '__| |/ /
